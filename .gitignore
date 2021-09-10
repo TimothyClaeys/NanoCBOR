@@ -7,6 +7,8 @@ bin
 tags
 *.swp
 *.swo
+cmake-build-debug
+.idea
 
 # docs
 docs
